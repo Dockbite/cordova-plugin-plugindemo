@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-plugindemo",
+  "name": "com.dockbite.plugindemo",
   "version": "1.0.0",
   "description": "PluginDemo",
   "cordova": {
-    "id": "cordova-plugin-plugindemo",
+    "id": "com.dockbite.plugindemo",
     "platforms": [
       "android"
     ]
