@@ -15,9 +15,10 @@ public class PluginDemo extends CordovaPlugin {
 
     @Override
     public boolean execute(String action, JSONArray args, CallbackContext callbackContext) throws JSONException {
-        if(action.equals("nativeToast")){
-            nativeToast();
+        if(action.equals("coolMethod")){
+            coolMethod();
         }
+        return false;
     }
 
     private void coolMethod() {
