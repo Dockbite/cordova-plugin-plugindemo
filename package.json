@@ -1,17 +1,22 @@
 {
   "name": "com.dockbite.plugindemo",
   "version": "1.0.0",
-  "description": "PluginDemo",
+  "description": "",
   "cordova": {
     "id": "com.dockbite.plugindemo",
-    "platforms": [
-      "android"
-    ]
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dockbite/cordova-plugin-plugindemo.git"
   },
   "keywords": [
-    "ecosystem:cordova",
-    "cordova-android"
+    "ecosystem:cordova"
   ],
-  "author": "Bert Lobbezoo",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dockbite/cordova-plugin-plugindemo/issues"
+  },
+  "homepage": "https://github.com/Dockbite/cordova-plugin-plugindemo#readme"
 }
